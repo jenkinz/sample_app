@@ -9,6 +9,7 @@ group :development do
 end
 
 group :test do
+  gem 'webrat' # required for `rspec`
   gem 'rspec'
 end
 
