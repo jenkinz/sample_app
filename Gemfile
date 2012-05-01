@@ -11,3 +11,5 @@ end
 group :test do
   gem 'rspec'
 end
+
+gem 'jquery-rails'
